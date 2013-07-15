@@ -6,6 +6,8 @@ gem 'devise'
 gem 'simple_form'
 gem 'paperclip', '~> 3.0'
 gem 'faker'
+gem 'will_paginate', '~> 3.0'
+gem 'bootstrap-will_paginate'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
